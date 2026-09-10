@@ -1,24 +1,61 @@
 # bili_douyin_xhs_uploader
 
+[中文版本](./README.cn.md)
+
 因为考虑到譬如Sora等视频生成服务,遂有此从服务器端批量上传视频到国内网站(抖音,小红书,今日头条,哔哩哔哩)的Uploader
 
-- **Upstream**: <https://github.com/aceliuchanghong/bili_douyin_xhs_uploader>
-- **Homepage**: <>
-- **Latest release**: `v.0.1.1` (2024-02-20)
-- **Last commit**: 2026-08-05
-- **License**: MIT
-- **Stars**: 70 · **Forks**: 13 · **Open issues**: 4 · **Contributors**: 2
+![bili_douyin_xhs_uploader](https://repo.x-cmd.io/bili_douyin_xhs_uploader.svg)
 
-## Installation
+## Install
 
 ```sh
 x install bili_douyin_xhs_uploader
 ```
 
-See <https://x-cmd.com/install/bili_douyin_xhs_uploader> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/aceliuchanghong/bili_douyin_xhs_uploader>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:22:51Z._
+- **Latest**: `v.0.1.1` (2024-02-20)
+- **Last commit**: 2026-08-05
+- **Published**: 2024-02-20T09:05:16Z
+
+## Popularity
+
+- **Stars**: 70 · **Forks**: 13 · **Open issues**: 4 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 2 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 18
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+## Code size
+
+Total: **738** lines of code across **27** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 738 | 82 | 55 | 22 |
+| Markdown | 0 | 188 | 26 | 4 |
+| Text | 0 | 9 | 0 | 1 |
+
+## Improve this data
+
+Install metadata for bili_douyin_xhs_uploader lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `bili_douyin_xhs_uploader` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/bili_douyin_xhs_uploader.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:50:52Z._
