@@ -4,7 +4,7 @@
 
 因为考虑到譬如Sora等视频生成服务,遂有此从服务器端批量上传视频到国内网站(抖音,小红书,今日头条,哔哩哔哩)的Uploader
 
-[![x-cmd/install — bili_douyin_xhs_uploader Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bili_douyin_xhs_uploader.svg)](https://x-cmd.com/install/bili_douyin_xhs_uploader)
+[![x-cmd/install — bili_douyin_xhs_uploader Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bili_douyin_xhs_uploader.svg)](https://x-cmd.com/install/bili_douyin_xhs_uploader)
 
 ## Install
 
@@ -44,12 +44,12 @@ Total: **738** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 1 | 0 | 2 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 1 | 0 | 2 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for bili_douyin_xhs_uploader lives in the [x-cmd/install](https
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:09:50Z._
